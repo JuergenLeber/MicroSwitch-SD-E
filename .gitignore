@@ -1,0 +1,6 @@
+# KiCad backup files
+*-backups
+.history/
+
+# Other files and directories
+.DS_Store
